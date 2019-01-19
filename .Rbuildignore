@@ -1,2 +1,4 @@
 oChangeLog
 svn2cl.*
+^.*\.Rproj$
+^\.Rproj\.user$
